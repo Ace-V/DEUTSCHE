@@ -5,9 +5,10 @@ In this i'll try to minimize the *BIAS* in AI algorithms so that the financial d
 #File 1 first_test,first_chart
 Used the German credit dataset I got to know abput through a paper Fairness Definitions Explained By Sahil Verma and Julia Rubin I ran the python script to see firsthand if the bias is there and if it is then how much and It can seen that the differenece on the basis of gender is 7.5% which is a huge gap on a large scale 
 
-<img width="847" height="255" alt="image" src="https://github.com/user-attachments/assets/8cb964bc-b9dd-4627-ba94-7ad4feb07556" />
+<img width="847" height="255" alt="output 1" src="https://github.com/user-attachments/assets/8cb964bc-b9dd-4627-ba94-7ad4feb07556" />
+<img width="826" height="618" alt="image" src="https://github.com/user-attachments/assets/75dc93f2-7630-4934-b7bb-1c6321daff20" />
 
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/2713e346-7bda-4bbb-86ff-0eebd43a58da" />
+
 
 This demonstrates violations of:
 - Deutsche Bank's "Fairness & Bias" AI principle
