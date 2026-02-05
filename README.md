@@ -21,6 +21,11 @@ Adding multiple AIF360 metrics so that we can closely observe the Biases present
 
 <img width="1156" height="195" alt="image" src="https://github.com/user-attachments/assets/2cf54d2d-dc1a-4788-8119-bfdeda00d79a" />
 
+# 2 Disparate Impact
+
+<img width="766" height="141" alt="image" src="https://github.com/user-attachments/assets/2dca3ef2-87e5-40b7-8471-44b17d108357" />
+
+
 
 
 
