@@ -25,6 +25,11 @@ Adding multiple AIF360 metrics so that we can closely observe the Biases present
 
 <img width="766" height="141" alt="image" src="https://github.com/user-attachments/assets/2dca3ef2-87e5-40b7-8471-44b17d108357" />
 
+# 3 Equal Opportunity
+
+<img width="1308" height="311" alt="image" src="https://github.com/user-attachments/assets/59c50e6e-2392-4a59-a167-8be11549559c" />
+
+
 
 
 
